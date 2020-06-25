@@ -4,3 +4,9 @@ path_classifiers:
 
     test:
         - Test
+
+extraction:
+  cpp:
+   index:
+      build_command:
+      - "make"
